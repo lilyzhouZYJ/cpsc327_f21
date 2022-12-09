@@ -1,0 +1,65 @@
+2021-10-15 16:30:41|DEBUG|Saved to bank.db
+2021-10-15 16:30:57|DEBUG|Created account: 1
+2021-10-15 16:30:57|DEBUG|Created transaction: 1, 500
+2021-10-15 16:30:57|DEBUG|Saved to bank.db
+2021-10-15 16:30:59|DEBUG|Created account: 2
+2021-10-15 16:30:59|DEBUG|Created transaction: 2, 50
+2021-10-15 16:30:59|DEBUG|Saved to bank.db
+2021-10-15 16:31:06|DEBUG|Created account: 3
+2021-10-15 16:31:06|DEBUG|Created transaction: 3, 60
+2021-10-15 16:31:06|DEBUG|Saved to bank.db
+2021-10-15 16:31:22|ERROR|TypeError: "assess_interest_and_fees() missing 1 required positional argument: 'session'"
+2021-10-15 16:31:42|DEBUG|Loaded from bank.db
+2021-10-15 16:31:45|DEBUG|Created account: 4
+2021-10-15 16:31:45|DEBUG|Created transaction: 4, 100
+2021-10-15 16:31:45|DEBUG|Saved to bank.db
+2021-10-15 16:38:43|DEBUG|Loaded from bank.db
+2021-10-15 16:38:49|ERROR|AttributeError: "'BankGUI' object has no attribute 'run'"
+2021-10-15 16:39:09|DEBUG|Loaded from bank.db
+2021-10-15 16:39:22|DEBUG|Created transaction: 4, -100
+2021-10-15 16:39:29|DEBUG|Created transaction: 4, -100
+2021-10-15 16:39:39|DEBUG|Created transaction: 3, -60
+2021-10-15 16:39:42|DEBUG|Created transaction: 3, -6
+2021-10-15 16:39:42|DEBUG|Saved to bank.db
+2021-10-15 16:39:44|ERROR|AttributeError: "'BankGUI' object has no attribute 'run'"
+2021-10-15 16:41:00|DEBUG|Loaded from bank.db
+2021-10-15 16:41:09|DEBUG|Created transaction: 4, -100
+2021-10-15 16:41:09|DEBUG|Saved to bank.db
+2021-10-15 16:41:12|DEBUG|Created transaction: 3, 0.0810
+2021-10-15 16:41:12|DEBUG|Created transaction: 3, -10
+2021-10-15 16:41:12|DEBUG|Triggered fees and interest
+2021-10-15 16:41:12|DEBUG|Saved to bank.db
+2021-10-15 16:41:15|DEBUG|Created transaction: 4, 0.0000
+2021-10-15 16:41:15|DEBUG|Created transaction: 4, -10
+2021-10-15 16:41:15|DEBUG|Triggered fees and interest
+2021-10-15 16:41:15|DEBUG|Saved to bank.db
+2021-10-15 16:41:22|DEBUG|Created transaction: 2, 1.250
+2021-10-15 16:41:22|DEBUG|Triggered fees and interest
+2021-10-15 16:41:22|DEBUG|Saved to bank.db
+2021-10-15 16:41:23|DEBUG|Created transaction: 1, 12.500
+2021-10-15 16:41:23|DEBUG|Triggered fees and interest
+2021-10-15 16:41:23|DEBUG|Saved to bank.db
+2021-10-15 16:41:32|DEBUG|Created transaction: 1, -49
+2021-10-15 16:41:32|DEBUG|Saved to bank.db
+2021-10-15 16:41:35|DEBUG|Created transaction: 1, 11.587500
+2021-10-15 16:41:35|DEBUG|Triggered fees and interest
+2021-10-15 16:41:35|DEBUG|Saved to bank.db
+2021-10-15 16:41:39|ERROR|AttributeError: "'BankGUI' object has no attribute 'run'"
+2021-10-15 16:49:45|DEBUG|Loaded from bank.db
+2021-10-15 16:50:33|DEBUG|Loaded from bank.db
+2021-10-15 16:51:01|DEBUG|Created transaction: 1, 100
+2021-10-15 16:51:01|DEBUG|Saved to bank.db
+2021-10-15 16:51:03|DEBUG|Created transaction: 1, 14.3771875
+2021-10-15 16:51:03|DEBUG|Triggered fees and interest
+2021-10-15 16:51:03|DEBUG|Saved to bank.db
+2021-10-15 16:51:12|ERROR|AttributeError: "'BankGUI' object has no attribute 'run'"
+2021-10-15 16:51:17|DEBUG|Loaded from bank.db
+2021-10-15 16:51:20|ERROR|AttributeError: "'BankGUI' object has no attribute 'run'"
+2021-10-15 16:53:32|DEBUG|Loaded from bank.db
+2021-10-15 16:53:40|DEBUG|Created account: 5
+2021-10-15 16:53:40|DEBUG|Created transaction: 5, 1
+2021-10-15 16:53:40|DEBUG|Saved to bank.db
+2021-10-15 16:53:44|DEBUG|Created transaction: 5, 0.0015
+2021-10-15 16:53:44|DEBUG|Created transaction: 5, -10
+2021-10-15 16:53:44|DEBUG|Triggered fees and interest
+2021-10-15 16:53:44|DEBUG|Saved to bank.db
